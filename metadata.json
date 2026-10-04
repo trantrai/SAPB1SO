@@ -1,0 +1,6 @@
+{
+  "name": "SAP B1 HANA - Quản lý Sales Order Service Layer",
+  "description": "Ứng dụng web chuyên nghiệp quản lý và tạo Đơn bán hàng (Sales Order) kết nối SAP Business One HANA qua Service Layer OData API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
